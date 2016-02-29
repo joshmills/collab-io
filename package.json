@@ -11,7 +11,8 @@
     "url": "git+https://github.com/joshmills/collab-io.git"
   },
   "dependencies": {
-    "express": "^4.10.2"
+    "express": "^4.10.2",
+    "socket.io": "^1.4.5"
   },
   "author": "Josh Mills",
   "license": "ISC",
